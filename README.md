@@ -17,3 +17,4 @@ Exploratory Data Analysis (EDA) with visualization.
    
 The list of libraries that were used during the project:
 - pandas, numpy, matplotlib, numpy, sklearn. 
+<hr>
